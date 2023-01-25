@@ -1,0 +1,184 @@
+1673597000162	geckodriver	INFO	Listening on 127.0.0.1:50956
+1673597003217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50957" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofileVdwJHr"
+1673597017531	Marionette	INFO	Marionette enabled
+1673597017540	Marionette	INFO	Listening on port 50969
+Read port: 50969
+WebDriver BiDi listening on ws://127.0.0.1:50957
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofileVdwJHr\\search.json.mozlz4", (void 0)))
+1673597021935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50957/devtools/browser/f1e7da61-1cbd-48a8-bab8-d90b31ded715
+1673937268160	geckodriver	INFO	Listening on 127.0.0.1:54533
+1673937271191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54534" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofileLFb8kU"
+1673937272827	Marionette	INFO	Marionette enabled
+1673937272835	Marionette	INFO	Listening on port 54543
+Read port: 54543
+WebDriver BiDi listening on ws://127.0.0.1:54534
+1673937273045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofileLFb8kU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54534/devtools/browser/0cb939ca-7cd8-4ae2-b8ac-dd294ab1f99d
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673937282445	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1673937290334	Marionette	INFO	Stopped listening on port 54543
+1673938356632	geckodriver	INFO	Listening on 127.0.0.1:54721
+1673938359694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54722" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofilekMx7dI"
+1673938360065	Marionette	INFO	Marionette enabled
+1673938360071	Marionette	INFO	Listening on port 54731
+Read port: 54731
+WebDriver BiDi listening on ws://127.0.0.1:54722
+1673938360247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofilekMx7dI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54722/devtools/browser/84102a46-af5f-406a-be85-933fdef0d03d
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673938365222	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673938370644	Marionette	INFO	Stopped listening on port 54731
+1673938449220	geckodriver	INFO	Listening on 127.0.0.1:54810
+1673938452278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54811" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofile2ZG5NF"
+1673938452634	Marionette	INFO	Marionette enabled
+1673938452640	Marionette	INFO	Listening on port 54820
+Read port: 54820
+WebDriver BiDi listening on ws://127.0.0.1:54811
+1673938452814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofile2ZG5NF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54811/devtools/browser/aa63c2a5-6103-4733-9ca9-84f97f1f6932
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: unreachable code after return statement
+1673938456487	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673938462724	Marionette	INFO	Stopped listening on port 54820
+1673938633702	geckodriver	INFO	Listening on 127.0.0.1:54899
+1673938636755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54900" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofileEM7jSv"
+1673938637102	Marionette	INFO	Marionette enabled
+1673938637108	Marionette	INFO	Listening on port 54909
+Read port: 54909
+WebDriver BiDi listening on ws://127.0.0.1:54900
+1673938637279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofileEM7jSv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54900/devtools/browser/012581af-063e-4e91-b14d-0a99bf8c92fb
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673938642177	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1673938650884	Marionette	INFO	Stopped listening on port 54909
+1673938772802	geckodriver	INFO	Listening on 127.0.0.1:54989
+1673938775864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54990" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofile5mjf69"
+1673938776302	Marionette	INFO	Marionette enabled
+1673938776309	Marionette	INFO	Listening on port 54999
+Read port: 54999
+WebDriver BiDi listening on ws://127.0.0.1:54990
+1673938776507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofile5mjf69\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54990/devtools/browser/01b3958b-767d-45ee-9614-8ca8074f74d1
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673938780327	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://flight.yatra.com/v5IfHah2QZ5rX/iSR4oZ/Td0Dsb2U/Q3EJa5JtQ9/TXUGYQ/Fk9BfFsQ/PAYB, line 1: unreachable code after return statement
+JavaScript warning: https://flight.yatra.com/v5IfHah2QZ5rX/iSR4oZ/Td0Dsb2U/Q3EJa5JtQ9/TXUGYQ/Fk9BfFsQ/PAYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://flight.yatra.com/v5IfHah2QZ5rX/iSR4oZ/Td0Dsb2U/Q3EJa5JtQ9/TXUGYQ/Fk9BfFsQ/PAYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://flight.yatra.com/v5IfHah2QZ5rX/iSR4oZ/Td0Dsb2U/Q3EJzhJtQ9/TXUGYQ/Dmk1FFAE/Z0A, line 1: unreachable code after return statement
+JavaScript error: https://www.yatra.com/content/air-search-ui/dist/app.51b34f07.js?f45e767b03d02d03efa4, line 1: TypeError: QueryProp is undefined
+1673938824884	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://flight.yatra.com/v5IfHah2QZ5rX/iSR4oZ/Td0Dsb2U/Q3EJzhJtQ9/TXUGYQ/Dmk1FFAE/Z0A, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673938854452	Marionette	INFO	Stopped listening on port 54999
+1673938932748	geckodriver	INFO	Listening on 127.0.0.1:55117
+1673938935810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55118" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofileZ8f3RM"
+1673938936174	Marionette	INFO	Marionette enabled
+1673938936181	Marionette	INFO	Listening on port 55127
+Read port: 55127
+WebDriver BiDi listening on ws://127.0.0.1:55118
+1673938936358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofileZ8f3RM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55118/devtools/browser/0f269f28-f20f-425f-ab40-9ce61689fba8
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673938941424	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1673938952272	Marionette	INFO	Stopped listening on port 55127
+1673939004986	geckodriver	INFO	Listening on 127.0.0.1:55207
+1673939008037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55208" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofile3AFR1u"
+1673939008382	Marionette	INFO	Marionette enabled
+1673939008389	Marionette	INFO	Listening on port 55217
+Read port: 55217
+WebDriver BiDi listening on ws://127.0.0.1:55208
+1673939008557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofile3AFR1u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55208/devtools/browser/d428e10e-1acb-46b3-b4d4-3b90334fbae2
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673939013568	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1673939023923	Marionette	INFO	Stopped listening on port 55217
+1673939093126	geckodriver	INFO	Listening on 127.0.0.1:55303
+1673939096193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55304" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofileAS52xw"
+1673939096542	Marionette	INFO	Marionette enabled
+1673939096549	Marionette	INFO	Listening on port 55313
+Read port: 55313
+WebDriver BiDi listening on ws://127.0.0.1:55304
+1673939096729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofileAS52xw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55304/devtools/browser/50b5d7dd-1eb9-4d46-9816-9c17d0b2ae0f
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673939101272	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673939111937	Marionette	INFO	Stopped listening on port 55313
+1673939147999	geckodriver	INFO	Listening on 127.0.0.1:55389
+1673939151055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55390" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofileQ5rPaM"
+1673939151411	Marionette	INFO	Marionette enabled
+1673939151417	Marionette	INFO	Listening on port 55399
+Read port: 55399
+WebDriver BiDi listening on ws://127.0.0.1:55390
+1673939151622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofileQ5rPaM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55390/devtools/browser/7666f0e1-a93f-41f1-b975-907e0ec7f2c7
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673939157051	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1673939169645	Marionette	INFO	Stopped listening on port 55399
+1673939213746	geckodriver	INFO	Listening on 127.0.0.1:55482
+1673939216785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofile1q3Foe"
+1673939217127	Marionette	INFO	Marionette enabled
+1673939217134	Marionette	INFO	Listening on port 55492
+Read port: 55492
+WebDriver BiDi listening on ws://127.0.0.1:55483
+1673939217308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofile1q3Foe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55483/devtools/browser/88301729-d071-4810-a5f7-2d525da10775
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673939222623	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1673939235182	Marionette	INFO	Stopped listening on port 55492
+1673939284668	geckodriver	INFO	Listening on 127.0.0.1:55578
+1673939287705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55579" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofile3T7rKr"
+1673939288051	Marionette	INFO	Marionette enabled
+1673939288057	Marionette	INFO	Listening on port 55588
+Read port: 55588
+WebDriver BiDi listening on ws://127.0.0.1:55579
+1673939288235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofile3T7rKr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55579/devtools/browser/f36db709-a898-47c0-a14e-4a5a4b92b587
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673939293929	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1673939307548	Marionette	INFO	Stopped listening on port 55588
+1673939347776	geckodriver	INFO	Listening on 127.0.0.1:55674
+1673939350796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55675" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofile7qpO5Q"
+1673939351139	Marionette	INFO	Marionette enabled
+1673939351146	Marionette	INFO	Listening on port 55684
+Read port: 55684
+WebDriver BiDi listening on ws://127.0.0.1:55675
+1673939351326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rajan\\AppData\\Local\\Temp\\rust_mozprofile7qpO5Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55675/devtools/browser/0ed7d023-8fc1-4eba-b296-6b0a748d44f1
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: unreachable code after return statement
+1673939355482	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.yatra.com/cN2U0/7xZ6/9t31/5k/LNics/m71VSGb4/Fg8HLDlFNw/dXp/aJmEBExg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673939368427	Marionette	INFO	Stopped listening on port 55684
